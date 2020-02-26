@@ -1,0 +1,88 @@
+body{
+  
+  background-image: url("spikes.png");
+  font-family:'Georgia', Times, 'Times New Roman', serif ;
+
+}
+.header{
+  background-color: #ffffff;
+  /* width: 100%; */
+  height: 170px;
+  border: thin #cccccc;
+  font-family:'Georgia', Times, 'Times New Roman', serif;
+  /* padding-right: 10%; */
+  /* padding-left: 10%; */
+  
+}
+.name{
+  background-color: #4aaaa5;
+  color: whitesmoke;
+  text-align: center;
+  width:400px;
+  height: fit-content;
+  padding-top: 25px;
+  margin-left: 160px;
+  margin-top:40px;
+  font-size: 2em;
+}
+.externalLinks{
+  color:#90918c;
+  font-size: 10pt;
+  text-align: right;
+  margin-right: 50px;
+  padding-right: 0px;
+  padding-top:150px;
+  width: fit-content;
+}
+.firstHr{
+  margin-top:-17px ;
+}
+.secondHr{
+  width: 590px;
+}
+.rowOne{
+  margin-top:30px;
+}
+
+
+.aboutMe{
+  color: #4aaaa5;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  margin-left:0px;
+}
+
+.profilePic{
+  float: left;
+ width: 120px;
+ margin-top: 15px;
+ border: black 5px;
+}
+.content{
+  width: 800px;
+  height: 700px;
+  background-color: whitesmoke;
+  color: #777777;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  padding-right: 10%;
+  padding-left: 10%;
+  /* margin-right: 15%;
+  margin-left: 15%; */
+  margin: 0 auto;
+  height: fit-content;
+  margin-top: 30px;
+  line-height: small;
+}
+.footer{
+  background-color: #666262;
+  border-top:solid 8px #4aaaa5;
+  text-align: center;
+  padding-bottom: 5px;
+  font-size: smaller;
+  bottom: 0; 
+  width:100%;
+}
+.btn-primary{
+  background: #4aaaa5 !important;
+}
